@@ -1,1 +1,1 @@
-# Recursive-Metotlar-ile-sl-Say-Hesaplama
+# Recursive-Metotlar-ile-uslu-Sayi-Hesaplama
